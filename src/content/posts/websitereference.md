@@ -11,7 +11,7 @@ I just created this website to track some of my personal thoughts and works.
 ## Hugo Reference
 Hugo is a tool to generate static webpages, such as this.  Following is how to create a new post.
 
-1. Create new draft post `hugo -s src new posts/post.md`.
+1. Create new draft post `hugo -s src new content posts/post.md`.
 2. Write post, and set `draft = false` in header.
 3. Rebuild static website `hugo -s src build --cleanDestinationDir`
 4. Commit and push via git

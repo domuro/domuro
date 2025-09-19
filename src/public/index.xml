@@ -11,32 +11,12 @@
     </image>
     <generator>Hugo -- 0.150.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Sep 2025 20:45:47 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 21:41:48 +0700</lastBuildDate>
     <atom:link href="https://domuro.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>This Website</title>
-      <link>https://domuro.com/posts/websitereference/</link>
-      <pubDate>Fri, 19 Sep 2025 20:45:47 +0700</pubDate>
-      <guid>https://domuro.com/posts/websitereference/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;This website is generated using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, using the &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme.  It is hosted on &lt;a href=&#34;https://vercel.com&#34;&gt;Vercel&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I just created this website to track some of my personal thoughts and works.&lt;/p&gt;
-&lt;h2 id=&#34;hugo-reference&#34;&gt;Hugo Reference&lt;/h2&gt;
-&lt;p&gt;Hugo is a tool to generate static webpages, such as this.  Following is how to create a new post.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Create new draft post &lt;code&gt;hugo -s src new posts/post.md&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Write post, and set &lt;code&gt;draft = false&lt;/code&gt; in header.&lt;/li&gt;
-&lt;li&gt;Rebuild static website &lt;code&gt;hugo -s src build --cleanDestinationDir&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Commit and push via git&lt;/li&gt;
-&lt;li&gt;Validate changes on &lt;a href=&#34;https://domuro.com&#34;&gt;domuro.com&lt;/a&gt;.  Note Vercel takes a few seconds to deploy.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;local-testing&#34;&gt;Local Testing&lt;/h2&gt;
-&lt;p&gt;Local testing is accomplished via Docker.  Posts in draft will be generated on localhost.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Security&#43; Study Resources</title>
       <link>https://domuro.com/posts/security&#43;/</link>
-      <pubDate>Fri, 19 Sep 2025 18:41:48 +0700</pubDate>
+      <pubDate>Fri, 19 Sep 2025 21:41:48 +0700</pubDate>
       <guid>https://domuro.com/posts/security&#43;/</guid>
       <description>&lt;h2 id=&#34;practice-exams&#34;&gt;Practice Exams&lt;/h2&gt;
 &lt;ul&gt;
@@ -49,6 +29,26 @@
 &lt;li&gt;&lt;a href=&#34;https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course&#34;&gt;Messer (video + transcript)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.amazon.ca/dp/1394211414&#34;&gt;Sybex book&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>This Website</title>
+      <link>https://domuro.com/posts/websitereference/</link>
+      <pubDate>Fri, 19 Sep 2025 20:45:47 +0700</pubDate>
+      <guid>https://domuro.com/posts/websitereference/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This website is generated using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, using the &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme.  It is hosted on &lt;a href=&#34;https://vercel.com&#34;&gt;Vercel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I just created this website to track some of my personal thoughts and works.&lt;/p&gt;
+&lt;h2 id=&#34;hugo-reference&#34;&gt;Hugo Reference&lt;/h2&gt;
+&lt;p&gt;Hugo is a tool to generate static webpages, such as this.  Following is how to create a new post.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Create new draft post &lt;code&gt;hugo -s src new content posts/post.md&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Write post, and set &lt;code&gt;draft = false&lt;/code&gt; in header.&lt;/li&gt;
+&lt;li&gt;Rebuild static website &lt;code&gt;hugo -s src build --cleanDestinationDir&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Commit and push via git&lt;/li&gt;
+&lt;li&gt;Validate changes on &lt;a href=&#34;https://domuro.com&#34;&gt;domuro.com&lt;/a&gt;.  Note Vercel takes a few seconds to deploy.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;local-testing&#34;&gt;Local Testing&lt;/h2&gt;
+&lt;p&gt;Local testing is accomplished via Docker.  Posts in draft will be generated on localhost.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
