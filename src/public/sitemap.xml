@@ -2,26 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://domuro.com/</loc>
     <lastmod>2025-09-19T18:41:48+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://domuro.com/posts/</loc>
     <lastmod>2025-09-19T18:41:48+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/security&#43;/</loc>
+    <loc>https://domuro.com/posts/security&#43;/</loc>
     <lastmod>2025-09-19T18:41:48+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello/</loc>
-    <lastmod>2025-09-19T17:53:46+07:00</lastmod>
+    <loc>https://domuro.com/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://domuro.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://domuro.com/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://domuro.com/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://domuro.com/tags/</loc>
   </url>
 </urlset>

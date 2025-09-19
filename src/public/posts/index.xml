@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on domuro</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://domuro.com/posts/</link>
     <description>Recent content in Posts on domuro</description>
     <image>
       <title>domuro</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>https://domuro.com/images/papermod-cover.png</url>
+      <link>https://domuro.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.150.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Sep 2025 18:41:48 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://domuro.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Security&#43; Study Resources</title>
-      <link>http://localhost:1313/posts/security&#43;/</link>
+      <link>https://domuro.com/posts/security&#43;/</link>
       <pubDate>Fri, 19 Sep 2025 18:41:48 +0700</pubDate>
-      <guid>http://localhost:1313/posts/security&#43;/</guid>
+      <guid>https://domuro.com/posts/security&#43;/</guid>
       <description>&lt;h1 id=&#34;security-study-resources&#34;&gt;Security+ Study Resources&lt;/h1&gt;
 &lt;h2 id=&#34;practice-exams&#34;&gt;Practice Exams&lt;/h2&gt;
 &lt;ul&gt;
@@ -30,13 +30,6 @@
 &lt;li&gt;&lt;a href=&#34;https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course&#34;&gt;Messer (video + transcript)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.amazon.ca/dp/1394211414&#34;&gt;Sybex book&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Hello</title>
-      <link>http://localhost:1313/posts/hello/</link>
-      <pubDate>Fri, 19 Sep 2025 17:53:46 +0700</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>
