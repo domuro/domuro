@@ -1,7 +1,7 @@
 +++
 date = '2025-09-19T18:41:48+07:00'
-draft = true
-title = 'Security+'
+draft = false
+title = 'Security+ Study Resources'
 +++
 
 # Security+ Study Resources
