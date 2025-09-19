@@ -1,0 +1,10 @@
+services:
+  domuro:
+    build: .
+    ports:
+      - "8080:80"
+    container_name: domuro-app
+    restart: unless-stopped
+    volumes:
+      - ./index.html:/usr/share/nginx/html/index.html  # for live reload
+
