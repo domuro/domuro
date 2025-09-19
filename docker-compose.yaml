@@ -1,10 +1,12 @@
+name: domuro
+
 services:
-  domuro:
-    build: .
-    ports:
-      - "8080:80"
-    container_name: domuro-app
-    restart: unless-stopped
+  server:
+    image: hugomods/hugo:exts-non-root
+    command: server -D
     volumes:
-      - ./index.html:/usr/share/nginx/html/index.html  # for live reload
+      - ./src:/src
+      - ~/hugo_cache:/tmp/hugo_cache
+    ports:
+      - 1313:1313
 
