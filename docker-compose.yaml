@@ -3,7 +3,8 @@ name: domuro
 services:
   server:
     image: hugomods/hugo:exts-non-root
-    command: server -D
+    # start hugo server, build drafts, set baseURL as localhost.
+    command: server -D -b http://localhost:1313
     volumes:
       - ./src:/src
       - ~/hugo_cache:/tmp/hugo_cache
