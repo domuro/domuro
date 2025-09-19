@@ -4,7 +4,6 @@ draft = false
 title = 'Security+ Study Resources'
 +++
 
-# Security+ Study Resources
 ## Practice Exams
 * [Messer Practice Exams](https://www.professormesser.com/amember/signup/sy0701pe)
 * [Dion Practice Exams](https://www.diontraining.com/products/comptia-security-sy0-007-unlimited-practice-exam)
